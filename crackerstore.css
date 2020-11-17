@@ -1,0 +1,29 @@
+
+.banner-image {
+    padding-top: 150px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-image: url(images/slide-3.JPG);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.banner-content{
+    padding: 150px;
+    padding-bottom: 500px;
+    padding-left: 800px;
+    margin-bottom: 360px;
+    border: 0px;
+    background-color: transparent;
+    color: white;
+    margin: 0px;
+}
+footer{
+    position: static;
+    background-color: #3d3d3d;
+    color: white;
+    width: 100%;
+    bottom: 0;
+    font-weight: 300;
+}
